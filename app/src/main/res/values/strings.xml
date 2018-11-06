@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherJava</string>
+
+    <string name="search_field_hint">Enter the city name</string>
+    <string name="search_button">Search</string>
+
+    <string name="label_city_name">City name:</string>
+    <string name="label_weather_description">Weather description:</string>
+    <string name="label_current_temp">Current temperature in °C:</string>
+
+    <string name="toast_enter_city_name">Please enter a city name</string>
+</resources>
